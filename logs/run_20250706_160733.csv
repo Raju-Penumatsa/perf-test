@@ -1,0 +1,2 @@
+hostname,os,processor,raid_controller,cpu_percent,memory_used_MB,memory_percent,disk_used_GB,disk_percent,net_bytes_sent,net_bytes_recv,read_time_sec,write_time_sec,filesize
+Raju-MSI,Windows-10-10.0.22631-SP0,"Intel64 Family 6 Model 140 Stepping 2, GenuineIntel",Microsoft Storage Spaces Controller,12.8,14383.41796875,44.3,353.1586723327637,37.8,36053785,298232239,0.07176065444946289,0.14914655685424805,200
